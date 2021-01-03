@@ -8,7 +8,7 @@
 - 🎵 My hobbies are Music Production and Sound Engineering. I've recreated some popular music from scratch on my YouTube channel.
 - 🌚 Fun fact: Also focus on how the website going to look on the phone when held horizontally and in every aspect possible.
 
-
+<br />
 ### Here's my Skills, Hope you'll find what you're looking for!!!
 <br />
 <div>
