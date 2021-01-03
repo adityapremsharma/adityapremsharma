@@ -9,20 +9,36 @@
 
 
 ### Here's my Skills, Hope you'll find what you're looking for!!!
-<div>
-<img src="https://cdn.iconscout.com/icon/free/png-512/react-1-282599.png" width="40px" style="margin-right: 20px">
-<img src="https://icon-library.com/images/node-js-icon/node-js-icon-8.jpg" width="40px" style="margin-right: 20px">
-<img src="https://toppng.com/uploads/preview/9kib-354x415-unnamed-mongodb-logo-sv-11562860723mgempnmrq3.png" width="40px" style="margin-right: 20px">
-<img src="https://pngimage.net/wp-content/uploads/2018/05/express-js-png-5.png" width="40px" style="margin-right: 20px">
-<img src="https://cdn.icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png" width="40px" style="margin-right: 20px">
-<img src="https://d2.alternativeto.net/dist/icons/ejs_142671.jpg?width=128&height=128&mode=crop&upscale=false" width="40px" style="margin-right: 20px">
-<img src="https://cdn0.iconfinder.com/data/icons/social-network-7/50/22-512.png" width="40px" style="margin-right: 20px">
-<img src="https://www.iconsdb.com/icons/preview/purple/css-xxl.png" width="40px" style="margin-right: 20px">
-<img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" width="40px" style="margin-right: 20px">
-<img src="https://www.arkasoftwares.com/images/android/ux-ui-logo.png" width="40px">
-</div>
-<br>
+
+<img src="https://cdn.iconscout.com/icon/free/png-512/react-1-282599.png" width="40px" align="left" />
+<img src="https://icon-library.com/images/node-js-icon/node-js-icon-8.jpg" width="40px" align="left"" />
+<img src="https://toppng.com/uploads/preview/9kib-354x415-unnamed-mongodb-logo-sv-11562860723mgempnmrq3.png" width="40px" align="left" />
+<img src="https://pngimage.net/wp-content/uploads/2018/05/express-js-png-5.png" width="40px" align="left" />
+<img src="https://cdn.icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png" width="40px" align="left" />
+<img src="https://d2.alternativeto.net/dist/icons/ejs_142671.jpg?width=128&height=128&mode=crop&upscale=false" width="40px" align="left" />
+<img src="https://cdn0.iconfinder.com/data/icons/social-network-7/50/22-512.png" width="40px" align="left" />
+<img src="https://www.iconsdb.com/icons/preview/purple/css-xxl.png" width="40px" align="left" />
+<img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" width="40px" align="left" />
+<img src="https://www.arkasoftwares.com/images/android/ux-ui-logo.png" width="40px" align="left" />
+
+<br />
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=adityapremsharma&theme=vue&show_icons=true)
 
 <!-- ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=adityapremsharma&repo=adityapremsharma.github.io) -->
+<br />
+
+### Lets Connect:
+
+[<img align="left" alt="Website" width="25px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="LinkedIn" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Instagram" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="YouTube" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+
+
+<br />
+
+[website]: adityapremsharma.github.io
+[linkedin]: https://www.linkedin.com/in/aditya-prem-sharma/
+[instagram]: https://www.instagram.com/adityaprem99/
+[youtube]: https://www.youtube.com/channel/UCU-FMXEoOjnbp72nL_a1XFA
