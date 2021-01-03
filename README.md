@@ -9,7 +9,7 @@
 
 
 ### Here's my Skills, Hope you'll find what you're looking for!!!
-<div style="display: flex" markdown="1">
+<div>
 <img src="https://cdn.iconscout.com/icon/free/png-512/react-1-282599.png" width="40px" style="margin-right: 20px">
 <img src="https://www.brainfuel.io/images/node-js-new.png" width="40px" style="margin-right: 20px">
 <img src="https://toppng.com/uploads/preview/9kib-354x415-unnamed-mongodb-logo-sv-11562860723mgempnmrq3.png" width="40px" style="margin-right: 20px">
@@ -20,7 +20,8 @@
 <img src="https://www.iconsdb.com/icons/preview/purple/css-xxl.png" width="40px" style="margin-right: 20px">
 <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" width="40px" style="margin-right: 20px">
 <img src="https://www.arkasoftwares.com/images/android/ux-ui-logo.png" width="40px">
-![myimg](https://www.arkasoftwares.com/images/android/ux-ui-logo.png){: height="75px" width="300px" style="float:left; padding-right:10px" }
 </div>
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=adityapremsharma)
+
+<!-- ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=YourUsername&repo=YourRepositoryName) -->
