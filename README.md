@@ -7,4 +7,4 @@
 - 🎓 Knowledge is power. Any type of knowledge is helpful.
 - 🌚 Fun fact: You should also focus on how the website gonna look on the phone when held horizontally and in every aspect possible.
 
-img src="https://raw.githubusercontent.com/<OWNER>/<OWNER>/master/<GIF_NAME>.gif" width="30px">
+<img src="https://cdn.iconscout.com/icon/free/png-512/react-1-282599.png" width="30px">
