@@ -9,15 +9,16 @@
 
 
 ### Here's my Skills, Hope you'll find what you're looking for...
-<p float="left">
-<img src="https://cdn.iconscout.com/icon/free/png-512/react-1-282599.png" width="30px">
-<img src="https://cdn.iconscout.com/icon/free/png-256/nodejs-226032.png" width="30px">
-<img src="https://cdn.iconscout.com/icon/free/png-512/mongodb-226029.png" width="30px">
-<img src="https://fd-development.com/images/expressjs.png" width="30px">
+<div float="left" style="margin-right: 20px">
+<img src="https://cdn.iconscout.com/icon/free/png-512/react-1-282599.png" width="50px">
+<img src="https://icon-library.com/images/node-js-icon/node-js-icon-8.jpg" width="50px">
+<img src="https://toppng.com/uploads/preview/9kib-354x415-unnamed-mongodb-logo-sv-11562860723mgempnmrq3.png" width="50px">
+<img src="https://image.winudf.com/v2/image/Y29tLmlzZWN1cmVnYWRnZXRzLmV4cHJlc3Nqc19pY29uXzY3NWIxZmRn/icon.png?w=170&fakeurl=1" width="50px">
+<img src="https://pngimage.net/wp-content/uploads/2018/05/express-js-png-5.png" width="50px">
 <img src="https://cdn.icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png" width="30px">
-<img src="https://www.oscarlijo.com/blog/wp-content/uploads/2017/10/ejs.png" width="30px">
+<img src="https://d2.alternativeto.net/dist/icons/ejs_142671.jpg?width=128&height=128&mode=crop&upscale=false" width="30px">
 <img src="https://cdn0.iconfinder.com/data/icons/social-network-7/50/22-512.png" width="30px">
 <img src="https://www.iconsdb.com/icons/preview/purple/css-xxl.png" width="30px">
 <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" width="30px">
-<img src="https://www.bloorresearch.com/wp-content/uploads/2012/10/informatica-transparent-logo-x.png" width="30px">
-</p>
+<img src="https://media.glassdoor.com/sqll/8797/informatica-squarelogo-1495062404100.png" width="30px">
+</div>
