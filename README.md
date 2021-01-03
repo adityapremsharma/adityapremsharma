@@ -36,7 +36,7 @@
 [<img align="left" alt="Website" width="25px" src="https://www.pngkit.com/png/detail/205-2055556_free-icons-png-web-icon-round-png.png" />][website]
 [<img align="left" alt="LinkedIn" width="25px" src="https://www.flaticon.com/svg/static/icons/svg/174/174857.svg" />][linkedin]
 [<img align="left" alt="Instagram" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/900px-Instagram_icon.png" />][instagram]
-[<img align="left" alt="YouTube" width="25px" src="https://i.pinimg.com/originals/31/23/9a/31239a2f70e4f8e4e3263fafb00ace1c.png" />][youtube]
+[<img align="left" alt="YouTube" width="25px" src="https://images.vexels.com/media/users/3/137425/isolated/preview/f2ea1ded4d037633f687ee389a571086-youtube-icon-logo-by-vexels.png" />][youtube]
 <br />
 
 [website]: adityapremsharma.github.io
