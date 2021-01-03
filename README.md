@@ -20,4 +20,5 @@
 <img src="https://www.iconsdb.com/icons/preview/purple/css-xxl.png" width="40px" style="margin-right: 20px">
 <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" width="40px" style="margin-right: 20px">
 <img src="https://www.arkasoftwares.com/images/android/ux-ui-logo.png" width="40px">
+![myimg](https://www.arkasoftwares.com/images/android/ux-ui-logo.png){: height="75px" width="300px" style="float:left; padding-right:10px" }
 </div>
