@@ -33,10 +33,10 @@
 
 ### Lets Connect:
 
-[<img align="left" alt="Website" width="25px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="LinkedIn" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Instagram" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="YouTube" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="Website" width="25px" src="https://www.pngkit.com/png/detail/205-2055556_free-icons-png-web-icon-round-png.png" />][website]
+[<img align="left" alt="LinkedIn" width="25px" src="https://www.flaticon.com/svg/static/icons/svg/174/174857.svg" />][linkedin]
+[<img align="left" alt="Instagram" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/900px-Instagram_icon.png" />][instagram]
+[<img align="left" alt="YouTube" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/1280px-YouTube_full-color_icon_%282017%29.svg.png" />][youtube]
 <br />
 
 [website]: adityapremsharma.github.io
