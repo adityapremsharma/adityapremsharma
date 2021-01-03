@@ -5,11 +5,12 @@
 - 🤓 I’m currently learning MERN Stack and finding ways to improve my web development skills.
 - 😏 Will be focusing on improving SEO skills (Gatsby works well) after being expert on React and UX/UI & Designing as well.
 - 🎓 Knowledge is power. Any type of knowledge is helpful.
+- 🎵 My hobbies are Music Production and Sound Engineering. I've recreated some popular music from scratch on my YouTube channel.
 - 🌚 Fun fact: Also focus on how the website going to look on the phone when held horizontally and in every aspect possible.
 
 
 ### Here's my Skills, Hope you'll find what you're looking for!!!
-
+<div>
 <img src="https://cdn.iconscout.com/icon/free/png-512/react-1-282599.png" width="40px" align="left" />
 <img src="https://icon-library.com/images/node-js-icon/node-js-icon-8.jpg" width="40px" align="left"" />
 <img src="https://toppng.com/uploads/preview/9kib-354x415-unnamed-mongodb-logo-sv-11562860723mgempnmrq3.png" width="40px" align="left" />
@@ -20,7 +21,7 @@
 <img src="https://www.iconsdb.com/icons/preview/purple/css-xxl.png" width="40px" align="left" />
 <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" width="40px" align="left" />
 <img src="https://www.arkasoftwares.com/images/android/ux-ui-logo.png" width="40px" align="left" />
-
+</div>
 <br />
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=adityapremsharma&theme=vue&show_icons=true)
