@@ -22,12 +22,11 @@
 <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" width="40px" align="left" />
 <img src="https://www.arkasoftwares.com/images/android/ux-ui-logo.png" width="40px" align="left" />
 </div>
-<br /><br />
+<br /><br /><br /><br />
 
 
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=adityapremsharma&theme=vue&show_icons=true)
-
 <!-- ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=adityapremsharma&repo=adityapremsharma.github.io) -->
 <br />
 
@@ -37,8 +36,6 @@
 [<img align="left" alt="LinkedIn" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Instagram" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="YouTube" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-
-
 <br />
 
 [website]: adityapremsharma.github.io
