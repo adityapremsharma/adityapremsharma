@@ -23,6 +23,6 @@
 </div>
 <br>
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=adityapremsharma)
+![Github stats](https://github-readme-stats.vercel.app/api?username=adityapremsharma&theme=dark)
 
 <!-- ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=adityapremsharma&repo=adityapremsharma.github.io) -->
