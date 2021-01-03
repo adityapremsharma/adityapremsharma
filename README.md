@@ -22,3 +22,5 @@
 <img src="https://www.arkasoftwares.com/images/android/ux-ui-logo.png" width="40px">
 ![myimg](https://www.arkasoftwares.com/images/android/ux-ui-logo.png){: height="75px" width="300px" style="float:left; padding-right:10px" }
 </div>
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=adityapremsharma)
