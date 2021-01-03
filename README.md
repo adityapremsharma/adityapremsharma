@@ -9,7 +9,7 @@
 
 
 ### Here's my Skills, Hope you'll find what you're looking for!!!
-<div style="display: flex">
+<div style="display: flex" markdown="1">
 <img src="https://cdn.iconscout.com/icon/free/png-512/react-1-282599.png" width="40px" style="margin-right: 20px">
 <img src="https://www.brainfuel.io/images/node-js-new.png" width="40px" style="margin-right: 20px">
 <img src="https://toppng.com/uploads/preview/9kib-354x415-unnamed-mongodb-logo-sv-11562860723mgempnmrq3.png" width="40px" style="margin-right: 20px">
