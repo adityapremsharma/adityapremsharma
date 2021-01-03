@@ -5,7 +5,7 @@
 - 🤓 I’m currently learning MERN Stack and finding ways to improve my web development skills.
 - 😏 Will be focusing on improving SEO skills (Gatsby works well) after being expert on React and UX/UI & Designing as well.
 - 🎓 Knowledge is power. Any type of knowledge is helpful.
-- 🌚 Fun fact: You should also focus on how the website gonna look on the phone when held horizontally and in every aspect possible.
+- 🌚 Fun fact: Also focus on how the website gonna look on the phone when held horizontally and in every aspect possible.
 
 
 ### Here's my Skills, Hope you'll find what you're looking for!!!
