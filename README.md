@@ -22,7 +22,7 @@
 <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" width="40px" align="left" />
 <img src="https://www.arkasoftwares.com/images/android/ux-ui-logo.png" width="40px" align="left" />
 </div>
-<br />
+<br /><br />
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=adityapremsharma&theme=vue&show_icons=true)
 
