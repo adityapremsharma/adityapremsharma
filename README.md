@@ -10,7 +10,7 @@
 
 <br />
 
-### Here's my Skills, Hope you'll find what you're looking for!!!
+### Here are my Skills, Hope you'll find what you're looking for!!!
 <br />
 <div>
 <img src="https://cdn.iconscout.com/icon/free/png-512/react-1-282599.png" width="40px" align="left" />
