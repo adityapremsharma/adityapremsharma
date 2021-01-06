@@ -6,7 +6,7 @@
 - 😏 Will be focusing on improving SEO skills (Gatsby works well) after being expert on React and UX/UI & Designing as well.
 - 🎓 Knowledge is power. Any type of knowledge is helpful.
 - 🎵 My hobbies are Music Production and Sound Engineering. I've recreated some popular music from scratch on my YouTube channel.
-- 🌚 Fun fact: Also focus on how the website going to look on the phone when held horizontally and in every aspect possible.
+- 🌚 Fun fact: Simplicity is the key. Design should be perfectly balanced and functional for the best UX.
 
 <br />
 
