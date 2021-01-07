@@ -40,7 +40,7 @@
 [<img align="left" alt="YouTube" width="25px" src="https://icons-for-free.com/iconfiles/png/512/tube+video+you+youtube+icon-1320185153402885670.png" />][youtube]
 
 
-[website]: adityapremsharma.github.io
+[website]: https://adityapremsharma.github.io/
 [linkedin]: https://www.linkedin.com/in/aditya-prem-sharma/
 [instagram]: https://www.instagram.com/adityaprem99/
 [youtube]: https://www.youtube.com/channel/UCU-FMXEoOjnbp72nL_a1XFA
