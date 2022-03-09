@@ -20,7 +20,8 @@
 <img src="https://d2.alternativeto.net/dist/icons/ejs_142671.jpg?width=128&height=128&mode=crop&upscale=false" width="40px" align="left" />
 <img src="https://cdn0.iconfinder.com/data/icons/social-network-7/50/22-512.png" width="40px" align="left" />
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/1200px-Sass_Logo_Color.svg.png" width="40px" align="left" />
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Nextjs-logo.svg/1200px-Nextjs-logo.svg.png" width="40px" align="left" />                                      <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" width="40px" align="left" />
+<img src="https://miro.medium.com/max/1000/1*htbUdWgFQ3a94PMEvBr_hQ.png" width="40px" align="left" />                                      
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Progressive_Web_Apps_Logo.svg/1200px-Progressive_Web_Apps_Logo.svg.png" width="40px" align="left" />
 </div>
 <br /><br /><br /><br />
 
