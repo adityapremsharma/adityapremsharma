@@ -26,7 +26,7 @@
 <br /><br /><br /><br />
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adityapremsharma&theme=vue)](https://github.com/adityapremsharma/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adityapremsharma&theme=dark)](https://github.com/adityapremsharma/github-readme-stats)
 <!-- ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=adityapremsharma&repo=adityapremsharma.github.io) -->
 
 
